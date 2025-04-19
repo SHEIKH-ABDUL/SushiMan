@@ -15,8 +15,6 @@
   --playfair-display: "Playfair Display", serif;
   --plus-jakarta-sans: "Plus Jakarta Sans", sans-serif;
 
-  
-
   --primary-color: #b1454a;
   --secondary-color: #121212;
 
@@ -47,6 +45,7 @@ a {
   text-decoration: none;
   color: inherit;
 }
+
 
 .flex-center {
   display: flex;
